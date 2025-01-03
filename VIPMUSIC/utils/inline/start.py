@@ -9,16 +9,16 @@ def start_pannel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💠 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 💠",
+                text="🫠𝗕𝗮𝗯𝘆 𝗠𝘂𝗷𝗵𝗲 𝗧𝘂𝗺 𝗬𝗮𝗵𝗮 𝗦𝗲 𝗔𝗽𝗻𝗲 𝗚𝗿𝗼𝘂𝗽 𝗠𝗲 𝗟𝗲 𝗖𝗵𝗮𝗹𝗼😘",
                 url=f"https://t.me/{app.username}?startgroup=true",
             ),
         ],
         [
-            InlineKeyboardButton(text="۞ 𝐇𝙴𝙻𝙿 ۞", callback_data="settings_back_helper"),
-            InlineKeyboardButton(text="☢ 𝐒𝙴𝚃 ☢", callback_data="settings_helper"),
+            InlineKeyboardButton(text="🫣 𝗛𝗲𝗹𝗽 🫣", callback_data="settings_back_helper"),
+            InlineKeyboardButton(text="⚙️𝗦𝗲𝘁⚙️", callback_data="settings_helper"),
         ],
         [
-            InlineKeyboardButton(text="✡ 𝐆𝚁𝙾𝚄𝙿 ✡", url=config.SUPPORT_GROUP),
+            InlineKeyboardButton(text="❤️𝗚𝗿𝗼𝘂𝗽❤️", url=config.SUPPORT_GROUP),
         ],
     ]
     return buttons
@@ -28,17 +28,17 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💠 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 💠",
+                text="🐽𝗕𝗮𝗯𝘆 𝗠𝘂𝗷𝗵𝗲 𝗧𝘂𝗺 𝗬𝗮𝗵𝗮 𝗦𝗲 𝗔𝗽𝗻𝗲 𝗚𝗿𝗼𝘂𝗽 𝗠𝗲 𝗟𝗲 𝗖𝗵𝗮𝗹𝗼🐱",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.SUPPORT_GROUP),
-            InlineKeyboardButton(text="𝐌ᴏʀᴇ🥀", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="💟𝗚𝗿𝗼𝘂𝗽💟", url=config.SUPPORT_GROUP),
+            InlineKeyboardButton(text="💥𝗠𝗼𝗿𝗲💥", url=config.SUPPORT_CHANNEL),
         ],
         [
             InlineKeyboardButton(
-                text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper"
+                text="💞𝗧𝗮𝗽 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗠𝗼𝗿𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀💞", callback_data="settings_back_helper"
             )
         ],
     ]
@@ -49,7 +49,7 @@ def alive_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✿︎ ᴀᴅᴅ ᴍᴇ ✿︎", url=f"https://t.me/{app.username}?startgroup=true"
+                text="😚𝗠𝘂𝗷𝗵𝗲 𝗗𝗮𝗯𝗮𝗼 𝗡𝗮😉", url=f"https://t.me/{app.username}?startgroup=true"
             ),
             InlineKeyboardButton(text=_["S_B_3"], url=f"{SUPPORT_GROUP}"),
         ],
