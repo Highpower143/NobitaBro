@@ -69,7 +69,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002223516578"))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6972508083").split())
+    map(int, getenv("OWNER_ID").split())
 )  # Input type must be interger
 
 
@@ -211,7 +211,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/rD0.mp4",
+    "https://envs.sh/rK1.jpg",
 )
 
 PING_IMG_URL = getenv(
