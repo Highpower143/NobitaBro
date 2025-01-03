@@ -39,7 +39,7 @@ DURATION_LIMIT_MIN = int(
 
 EXTRA_PLUGINS = getenv(
     "EXTRA_PLUGINS",
-    "False",
+    "Ture",
 )
 
 # Fill True if you want to load extra plugins
