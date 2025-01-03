@@ -64,7 +64,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐊𝐎𝐈+𝐃𝐈𝐊𝐊𝐀𝐓+𝐌𝐒𝐆+𝐊𝐑">
 <p align="center">
-    <a href="https://telegram.me/ll_NOBITA_BOT_DEVLOPER_ll">
+    <a href="https://telegram.me/tmzeroo">
         <img src="https://img.shields.io/badge/-☆ησвιтα вσт мαкєя%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
 </p>
@@ -84,9 +84,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/ll_NOBITA_BOT_DEVLOPER_ll">
+<a href="https://t.me/TMZEROO">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/NOBITA_BOT_MAKER">
+<a href="https://instagram.com/nand_yaduwanshi">
     <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
