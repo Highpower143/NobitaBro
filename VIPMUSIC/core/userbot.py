@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ll_NOBITA_BOT_DEVLOPER_ll")
-                await self.one.join_chat("NOBITA_BOT_MAKER_STATUS")
-                await self.one.join_chat("NOBITA_SUPPORT")
-                await self.one.join_chat("NOBITA_ALL_BOT")
+                await self.one.join_chat("TMZEROO")
+                await self.one.join_chat("NANDYADU1C")
+                await self.one.join_chat("V2DDOS")
+                await self.one.join_chat("CREATIVEYDV")
             except:
                 pass
             assistants.append(1)
@@ -93,10 +93,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ll_NOBITA_BOT_DEVLOPER_ll")
-                await self.two.join_chat("NOBITA_SUPPORT")
-                await self.two.join_chat("NOBITA_ALL_BOT")
-                await self.two.join_chat("NOBITA_BOT_MAKER_STATUS")
+                await self.two.join_chat("TMZEROO")
+                await self.two.join_chat("NANDYADU1C")
+                await self.two.join_chat("V2DDOS")
+                await self.two.join_chat("CREATIVEYDV")
             except:
                 pass
             assistants.append(2)
@@ -121,10 +121,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("ll_NOBITA_BOT_DEVLOPER_ll")
-                await self.three.join_chat("NOBITA_BOT_MAKER_STATUS")
-                await self.three.join_chat("NOBITA_SUPPORT")
-                await self.three.join_chat("NOBITA_ALL_BOT")
+                await self.three.join_chat("TMZEROO")
+                await self.three.join_chat("NANDYADU1C")
+                await self.three.join_chat("V2DDOS")
+                await self.three.join_chat("CREATIVEYDV")
             except:
                 pass
             assistants.append(3)
@@ -149,10 +149,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("NOBITA_ALL_BOT")
-                await self.four.join_chat("ll_NOBITA_BOT_DEVLOPER_ll")
-                await self.four.join_chat("NOBITA_SUPPORT")
-                await self.four.join_chat("NOBITA_BOT_MAKER_STATUS")
+                await self.four.join_chat("TMZEROO")
+                await self.four.join_chat("NANDYADU1C")
+                await self.four.join_chat("V2DDOS")
+                await self.four.join_chat("CREATIVEYDV")
             except:
                 pass
             assistants.append(4)
@@ -177,10 +177,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("NOBITA_BOT_MAKER_STATUS")
-                await self.five.join_chat("NOBITA_SUPPORT")
-                await self.five.join_chat("NOBITA_ALL_BOT")
-                await self.five.join_chat("ll_NOBITA_BOT_DEVLOPER_ll")
+                await self.five.join_chat("TMZEROO")
+                await self.five.join_chat("NANDYADU1C")
+                await self.five.join_chat("V2DDOS")
+                await self.five.join_chat("CREATIVEYDV")
             except:
                 pass
             assistants.append(5)
